@@ -1,4 +1,6 @@
 # EDHEC_Investment-Management-with-Python-and-Machine-Learning-
+![image](https://user-images.githubusercontent.com/59873708/182828436-c547c5ad-b4d7-418e-bc4e-3ff4e9ab9a9e.png)
+
 
 ### About this Coursera Specialization offered by EDHEC Business School
 
@@ -76,6 +78,7 @@ applied to the financial markets while strengthening data science and python ski
    
 ### Offered by
 # EDHEC Business School 
+Ecole des Hautes Etudes Commerciales du Nord
 
 
 Founded in 1906, EDHEC is now one of Europe’s top 15 business schools .
