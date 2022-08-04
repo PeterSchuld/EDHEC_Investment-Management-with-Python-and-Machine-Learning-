@@ -15,11 +15,11 @@ ideas in the Python programming language through a series of dedicated lab sessi
 - Vijay Vaidyanathan, PhD  - Optimal Asset Management Inc.   EDHEC Business School
 - Lionel Martellini, PhD   - EDHEC-Risk Institute, Director, EDHEC Business School
 - John Mulvey              - Princeton University Professor in the Operations Research and Financial Engineering Department 
-- Gideon OZIK              - Founder and managing partner of MKT MediaStats, EDHEC Business School
+- Gideon Ozik              - Founder and managing partner of MKT MediaStats, EDHEC Business School
 - Sean McOwen              - Quantitative Analyst Finance
 
 ### Course 1      Introduction to Portfolio Construction and Analysis with Python
-Taught by: Vijay Vaidyanathan and Lionel Martellini
+#### Taught by: Vijay Vaidyanathan and Lionel Martellini
 
 The practice of investment management has been transformed in recent years by computational methods. This course provides an introduction to the 
 underlying science, with the aim of giving you a thorough understanding of that scientific basis. However, instead of merely explaining the science, 
@@ -34,7 +34,7 @@ language. We'll start with the very basics of risk and return and quickly progre
 
 
 ### Course 2      Advanced Portfolio Construction and Analysis with Python
-Taught by: Vijay Vaidyanathan and Lionel Martellini
+#### Taught by: Vijay Vaidyanathan and Lionel Martellini
 
       WEEK 1  Style & Factors
       WEEK 2  Robust estimates for the covariance matrix
@@ -43,7 +43,7 @@ Taught by: Vijay Vaidyanathan and Lionel Martellini
       
 
 ### Course 3      Python and Machine Learning for Asset Management 
-Taught by: John Mulvey and Lionel Martellini
+#### Taught by: John Mulvey and Lionel Martellini
 
 This course will enable you mastering machine-learning approaches in the area of investment management. It has been designed by two thought leaders in their 
 field, Lionel Martellini from EDHEC-Risk Institute and John Mulvey from Princeton University. Starting from the basics, they will help you build practical 
@@ -59,6 +59,8 @@ and the implementation of more efficient risk management models.
  
 
 ### Course 4    Python and Machine-Learning for Asset Management with Alternative Data Sets
+#### Taught by:  Gideon Ozik and Sean McOwen
+
 Over-utilization of market and accounting data over the last few decades has led to portfolio crowding, mediocre performance and systemic risks, 
 incentivizing financial institutions which are looking for an edge to quickly adopt alternative data as a substitute to traditional data. This course 
 introduces the core concepts around alternative data, the most recent research in this area, as well as practical portfolio examples and actual applications.
