@@ -80,7 +80,8 @@ applied to the financial markets while strengthening data science and python ski
    
 ### Offered by
 # EDHEC Business School 
-Ecole des Hautes Etudes Commerciales du Nord
+#### Ecole des Hautes Etudes Commerciales du Nord
+
 Ranked #5 Masters in Finance by Financial Times 2022
 
      http://www.edhec.com
