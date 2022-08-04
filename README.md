@@ -1,4 +1,4 @@
-# EDHEC_Investment-Management-with-Python-and-Machine-Learning-
+# EDHEC Investment Management with Python and Machine Learning
 ![image](https://user-images.githubusercontent.com/59873708/182828436-c547c5ad-b4d7-418e-bc4e-3ff4e9ab9a9e.png)
 
 
@@ -12,11 +12,11 @@ explaining the science, we help you build on that foundation in a practical mann
 ideas in the Python programming language through a series of dedicated lab sessions.
 
 ### Instructors
-- Vijay Vaidyanathan, PhD  - Optimal Asset Management Inc.   EDHEC Business School
-- Lionel Martellini, PhD   - EDHEC-Risk Institute, Director, EDHEC Business School
-- John Mulvey              - Princeton University Professor in the Operations Research and Financial Engineering Department 
-- Gideon Ozik              - Founder and managing partner of MKT MediaStats, EDHEC Business School
-- Sean McOwen              - Quantitative Analyst Finance
+      Vijay Vaidyanathan, PhD  - Optimal Asset Management Inc.   EDHEC Business School
+      Lionel Martellini, PhD   - EDHEC-Risk Institute, Director, EDHEC Business School
+      John Mulvey              - Princeton University Professor in the Operations Research and Financial Engineering Department 
+      Gideon Ozik              - Founder and managing partner of MKT MediaStats, EDHEC Business School
+      Sean McOwen              - Quantitative Analyst Finance
 
 ### Course 1      Introduction to Portfolio Construction and Analysis with Python
 #### Taught by: Vijay Vaidyanathan and Lionel Martellini
