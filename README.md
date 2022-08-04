@@ -81,8 +81,9 @@ applied to the financial markets while strengthening data science and python ski
 ### Offered by
 # EDHEC Business School 
 Ecole des Hautes Etudes Commerciales du Nord
+Ranked #5 Masters in Finance by Financial Times 2022
 
+     http://www.edhec.com
+     https://rankings.ft.com/schools/333/edhec-business-school/rankings/2874/masters-in-finance-pre-experience-2022/ranking-data
 
-Founded in 1906, EDHEC is now one of Europe’s top 15 business schools .
-
-Based in Lille, Nice, Paris, London and Singapore, and counting over 90 nationalities on its campuses, EDHEC is a fully international school directly connected to the business world. With over 40,000 graduates in 120 countries, it trains committed managers capable of dealing with the challenges of a fast-evolving world. Harnessing its core values of excellence, innovation and entrepreneurial spirit, EDHEC has developed a strategic model founded on research of true practical use to society, businesses and students, and which is particularly evident in the work of EDHEC-Risk Institute and Scientific Beta. The School functions as a genuine laboratory of ideas and plays a pioneering role in the field of digital education via EDHEC Online, the first fully online degree-level training platform. These various components make EDHEC a centre of knowledge, experience and diversity, geared to preparing new generations of managers to excel in a world subject to transformational change. EDHEC in figures: 8,600 students in academic education, 19 degree programmes ranging from bachelor to PhD level, 184 professors and researchers, 11 specialist research centres.   
+Operating from campuses in Lille, Nice, Paris, London and Singapore, EDHEC is one of the top 10 European business schools. Fully international and directly connected to the business world, EDHEC is a school for business, rather than a business school, where excellence in teaching and research focuses on innovation to stimulate entrepreneurship and creativity. EDHEC functions as a genuine laboratory of ideas and produces innovative solutions valued by businesses. The School’s teaching philosophy, inspired by its award-winning research activities, focuses on “learning by doing”.
